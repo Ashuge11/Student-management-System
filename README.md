@@ -46,6 +46,3 @@ Student management system/
 - Database integration
 - Flask web version
 - Login system
-
-## Author
-Your Name
